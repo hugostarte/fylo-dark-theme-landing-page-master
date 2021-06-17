@@ -218,7 +218,6 @@ input{
 .footer{
 	background: var(--Dark_Blue_footer);
 	padding: 8% 5% 5% 5%;
-	width: 100%;
 }
 .footer_content{	
 	display: flex;
@@ -290,6 +289,10 @@ input{
 }
 
 @media (max-width: 720px) {
+	#illustration_intro {
+    		width: 90%;
+    		margin: 5%;
+		}
 	.grid{
 		width: 90%;
 		padding-top:10%;
@@ -349,10 +352,8 @@ input{
 	.about, .location{
 		margin-top: 10%;
 	}
-
-	@media (max-width: 500px) {
-		.grid div{
+}
+@media (max-width: 500px) {
+	.grid div{
 		width: 100%;
-	
-	}
 }
