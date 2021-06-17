@@ -350,13 +350,9 @@ input{
 		margin-top: 10%;
 	}
 
-	@media (max-width: 720px) {
-
+	@media (max-width: 500px) {
+		.grid div{
+		width: 100%;
+	
 	}
 }
-
-
-
-
-
-
