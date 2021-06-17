@@ -3,7 +3,7 @@
 ![Design preview for the Fylo dark theme landing page challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
-First You can check the result on :http://hugostawiarski.free.fr/fylo_dark_theme_landing_page_master/index.html
+First You can check the result on: http://hugostawiarski.free.fr/fylo_dark_theme_landing_page_master/index.html
 
 Thanks for checking out this front-end coding challenge.
 
